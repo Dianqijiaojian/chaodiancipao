@@ -72,7 +72,7 @@ h2 {
 
 .remember-forget span {
     margin-left: -5px;
-
+    /*文字与勾选框的间距*/
 }
 
 .remember-forget label input {
