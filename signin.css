@@ -71,8 +71,8 @@ h2 {
 }
 
 .remember-forget span {
-    margin-left: -5px;
-    /*文字与勾选框的间距*/
+    margin-left: -8px;
+
 }
 
 .remember-forget label input {
@@ -99,6 +99,11 @@ h2 {
     margin-bottom: 20px;
 }
 
+#signin-button{
+    color:white;
+    /* 隐藏按钮链接的颜色 */
+
+}
 #signup a {
     color: green;
 }
